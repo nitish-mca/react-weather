@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project will fetch weather for any city. it is using openweathermap api to get data
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
